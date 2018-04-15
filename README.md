@@ -1,2 +1,2 @@
-# Johns_Hopkins_University_assignments
+# Johns Hopkins University assignments
 Coursera Johns Hopkins University Web Developer course assignments
